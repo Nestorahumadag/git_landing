@@ -57,3 +57,16 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+footer {
+  margin-top: 20px;
+}
+#popover {
+  display: flex;
+  justify-content: center;
+  
+}
+#popover .btn{
+  margin-inline: 3px;
+
+}
